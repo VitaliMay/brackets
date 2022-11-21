@@ -24,6 +24,7 @@ module.exports = function check(str, bracketsConfig) {
 
 // The End Решения №1 *******************************************************************
 
+
   if (str.length === 0 || bracketsConfig === 0) return false;
 
   const bracketObj = {}
