@@ -22,7 +22,8 @@ module.exports = function check(str, bracketsConfig) {
 
   // return result.length === 0;                                                               // если остались открывающие
 
-// The End Решения №1 *******************************************************************
+
+  // The End Решения №1 *******************************************************************
 
 
   if (str.length === 0 || bracketsConfig === 0) return false;
